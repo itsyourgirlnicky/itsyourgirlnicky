@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nicole Bosibori</h1>
 <h3 align="center">A passionate Data Scientist in Kenya</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
