@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nicolebosibori74@gmail.com**
 
-- ⚡ Fun fact **Data Scientist are effective data storytellers**
+- ⚡ Fun fact **Data Scientists are effective data storytellers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
